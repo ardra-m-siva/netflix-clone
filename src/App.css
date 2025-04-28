@@ -1,0 +1,29 @@
+.button-signIn{
+    font-weight: 500;
+    border: none ;
+    background-color:  rgb(229, 9, 20);
+    cursor: pointer;
+    font-size:0.875rem ;
+    padding: 0.25rem 1rem;
+    min-height: 2rem;
+    width: auto;
+    border-radius: 2px;
+    color: white;
+}
+
+.language-button{
+    width: auto;
+   border: 1px;
+   color: white;
+   padding: 0.375rem auto;
+   background-color: #00000000 ;
+   min-height: 16px;
+
+}
+.netflix-logo {
+    position: absolute;
+    top: -40px;
+    left: 74px;
+    max-width: 295px;
+    width: 100%;
+  }
